@@ -127,6 +127,7 @@ export const MatchName = styled.Text`
 export const MatchBio = styled.Text`
     margin-top: 10px;
     font-size: 20px;
+    text-align:center;
     line-height: 30px;
     max-width: 400px;
     color: rgba(255, 255, 255, 0.9);
@@ -140,4 +141,5 @@ export const ButtonText = styled.Text`
     color: rgba(255, 255, 255, 0.9);
     font-size: 18px;
     margin-top: 30px;
+    font-weight:bold;
 `;
